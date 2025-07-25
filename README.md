@@ -19,7 +19,7 @@ This project was created to demonstrate how basic web technologies can power a d
 
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript (minimal)
 - **Backend:** PHP
-- **Database:** MySQL (via XAMPP)
+- **Database:** MySQL
 
 ---
 
